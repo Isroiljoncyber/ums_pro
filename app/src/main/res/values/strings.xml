@@ -1,0 +1,424 @@
+<resources>
+    <string name="app_name">Mobiuz</string>
+
+    <string name="open" translatable="false">Open</string>
+    <string name="close" translatable="false">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="internet_packets">Internet</string>
+
+
+    <!--MOnthly internet packages info-->
+    <string name="monthly_internet_name"><![CDATA[
+
+        Faollashtirilgan Internet-to‘plamning holati va qoldig‘ini bilish uchun *102#
+        USSD-buyrug‘idan foydalanish yoki 613019 raqamiga 3 ni yuborish kerak.<br/><br/><b>Shartlar:</b>
+      ]]></string>
+    <string name="monthly_internet_des"><![CDATA[
+
+
+      <ul>
+      <li>Internet-to`plamlardan foydalanish uchun “Mobil Internet” xizmati yoqilgan bo`lishi shart.</li>
+      <li>To`plamga kiritilgan trafik hajmi to\`plam faollashtirilgan kundan boshlab
+      (abonent raqami bandlangan/bandlanmaganligidan qat’iy nazar) 30 kalendar kuni davomida amal qiladi.</li>
+      <li>Internet-to`plamni yoqish uchun abonent hisobida yetarlicha mablag` bo`lishi, ya’ni
+       to`plam faollashtirilgandan keyin abonent hisobida kamida 42,10 so`m bo`lishi shart.</li>
+      <li>Bir necha to`plamlarni xarid qilish oralig‘idagi vaqt kamida 10 daqiqani tashkil etishi kerak.</li>
+      <li>Internet-to‘plamlarni xarid qilgandan so‘ng ular to‘g‘ri narxlanishi uchun telefon planshet yoki 3G modemni o‘chirib-yoqish kerak.</li>
+      <li>Ushbu aksiya bo‘yicha xarid qilingan barcha to`plamlarning hajmi qo`shiladi, foydalanish
+      muddati esa ohirgi xarid qilingan to`plam muddatigicha uzaytiriladi va 30 kunni tashkil etadi.</li>
+      <li>Ushbu aksiya bo‘yicha xarid qilingan Internet-to‘plamlar va avvalgi “MEGAbaytlar
+      kuymaydi!” aksiya bo‘yicha berilgan megabaytlar hajmi qo‘shilmaydi.</li>
+      <li>Belgilangan trafik yakunlanganidan so‘ng yoki to`plam muddati tugaganidan keyin trafik belgilangan narxlar bo`yicha narxlanadi.</li>
+      <li>Tarif rejasi o`zgartirilganda to`plamlarni taqdim etilish shartlari o`zgarmaydi.</li>
+      <li>Abonent O`zbekiston hududida, “UMS” MChJ tarmog`ida bo`lgandagina to`plamlar amal qiladi.</li>
+      </ul>
+
+      ]]></string>
+
+    <string name="internet_300_packet">To\'plam 300 Mb</string>
+    <string name="internet_500_packet">To\'plam 500 Mb</string>
+    <string name="internet_1000_packet">To\'plam 1000 Mb</string>
+    <string name="internet_2000_packet">To\'plam 2000 Mb</string>
+    <string name="internet_3000_packet">To\'plam 3000 Mb</string>
+    <string name="internet_5000_packet">To\'plam 5000 Mb</string>
+    <string name="internet_10000_packet">To\'plam 10000 Mb</string>
+    <string name="internet_20000_packet">To\'plam 20000 Mb</string>
+    <string name="internet_30000_packet">To\'plam 30000 Mb</string>
+    <string name="internet_50000_packet">To\'plam 50000 Mb</string>
+
+
+    <!--Night internet package info-->
+
+    <string name="night_internet_name"><![CDATA[
+
+       Tungi Internet-to’plam qoldig‘ini *203# USSD-buyrug’i yoki 616203 raqamiga 3 sonini sms-xabar
+       tariqasida yuborish orqali tekshirib ko’rish mumkin.<br><br/><br/><b>Shartlar:</b>
+      ]]></string>
+    <string name="night_internet_des"><![CDATA[
+
+
+      <ul>
+      <li>Tungi internet-to’plamlar uchun haq bir marta, faollashtirilgan paytda yechib olinadi.</li>
+      <li>Har bir internet-to’plam 30 kalendar kuni davomida, abonent vaqtinchalik blokirovka qilingan muddatdan qat’iy nazar amal qiladi</li>
+      <li>Tungi internet-to’plamlar 00:00dan 8:00gacha sarflanadi.</li>
+      <li>Faollashtirilgandan so’ng abonent hisobida kamida 0,01 sh.b. qolsagina to’plamga ulanish mumkin.</li>
+      <li>Barcha sotib olingan to’plamlarning hajmi qo’shiladi, ularning foydalanish muddati
+       esa har bir yangi to’plam faollashtirilgan kundan boshlab 30 kunga uzaytiriladi.</li>
+      <li>Belgilangan trafik yakunlansa yoki to’plamning amal qilish muddati o’tsa, trafik abonent foydalanayotgan tarif bo’yicha hisoblanadi.</li>
+      <li>«Tungi Drive» xizmati yoqilgan bo’lsa, sotib olingan tungi internet-to’plam trafigi sarflanmaydi.</li>
+      <li>Bir nechta to’plamlarni harid qilish o’rtasidagi farq 10 daqiqadan kam bo’lmasligi kerak.</li>
+      <li>To’plamlar abonent O’zbekiston Respublikasi hududida «UMS» MChJ tarmogida bo’lgandagina amal qiladi.</li>
+      <li>Tungi internet-to’plamlar to’g’ri ishlashi uchun har kuni soat 00:00dan keyin internetni
+      o’chirib, qayta yoqish lozim. Aks xolda tungi internet to’plamlarning ishga tushishi kafolatlanmaydi.</li>
+      </ul>
+
+      ]]></string>
+
+    <string name="night_1000">Tun 1000 Mb</string>
+    <string name="night_2000">Tun 2000 Mb</string>
+    <string name="night_3000">Tun 3000 Mb</string>
+    <string name="night_5000">Tun 5000 Mb</string>
+    <string name="night_10000">Tun 10000 Mb</string>
+    <string name="night_20000">Tun 20000 Mb</string>
+    <string name="night_50000">Tun 50000 Mb</string>
+
+    <!--Night DRIVE internet packages info-->
+
+    <string name="night_drive_internet_name"><![CDATA[
+
+        Yuridik shaxslar xizmatni faollashtirish uchun yozma ariza bilan murojaat qilishlari kerak.<br><br/><br/>
+        <b>Diqqat:</b>«Tungi DRIVE» va «4G LTE tarmog’iga kirish» xizmatlari bir-birini
+         inkor etuvchi bo’lib, bir vaqtning o’zida faqat bitta xizmat ishlashi mumkin.<br/><br/>
+         <b>Shartlar:</b>
+      ]]></string>
+    <string name="night_drive_internet_des"><![CDATA[
+
+
+      <ul>
+      <li>«Tungi DRIVE 1» xizmati uchun haq xizmat amal qiladigan bir davr uchun bir marta undiriladi.
+       Agar abonent xizmatning yana bir tungi davrda amal qilishini istasa, ulanish takroran amalga oshirilishi kerak.
+       Xizmatning amal qilish muddati faollashtirish vaqtidan boshlab 24 soatni tashkil qiladi;</li>
+      <li>«Tungi DRIVE 7» va «Tungi DRIVE 30» opsiyalari uchun haq bir marta undiriladi.
+       Xizmatning amal qilish muddati opsiya ulangan vaqtdan boshlab tegishlicha 7 va 30 sutkani tashkil etadi;</li>
+      <li>bir vaqtning o‘zida uchta opsiyadan faqat bittasi ulanishi mumkin;</li>
+      <li>«Tungi DRIVE» xizmatiga «Absolut»dan boshqa barcha tarif rejalarining abonentlari ulanishi mumkin;</li>
+      <li>siz sotib olgan internet-to‘plamlar va tarif rejalari doirasidagi to‘plamlar bo‘yicha megabaytlar
+      «Tungi DRIVE 1», «Tungi DRIVE 7» va «Tungi DRIVE 30» xizmatlaridan foydalanilayotganda (soat 0:00dan 8:00gacha) kamaymaydi;</li>
+      <li>«Tungi DRIVE» xizmatini ulash uchun abonentning balansida mablag‘ bor bo‘lishi kerak;</li>
+      <li>«Tungi DRIVE» xizmati faqat bandlanmagan holatda ishlaydi;</li>
+      <li>Tarif o‘zgarganda ham «Tungi DRIVE» xizmati saqlanib qoladi;</li>
+      <li>Xizmat faqat O‘zbekiston hududida amal qiladi;</li>
+      <li>«Tungi DRIVE» xizmati to‘g‘ri ishlashi uchun joriy sessiyani to‘xtatib, soat 00:00dan
+       keyin yangisini boshlash kerak. Aks holda «Tungi DRIVE» to‘g‘ri ishlashi kafolatlanmaydi;</li>
+      <li>«Tungi DRIVE» xizmati o‘chiriladigan hollarda narxlar to‘g‘ri chiqarilishi uchun dastlab barcha faol Internet sessiyalar yakunlanishi zarur;</li>
+      <li>Internetdan foydalanilayotganda har 60 daqiqada ulanish uzilib, sessiya yangilanadi;</li>
+      <li>Soat 0:00dan 8:00gacha bo‘lgan davrda «Tungi DRIVE» xizmati o‘chirilgan taqdirda,
+      Internet-trafik tarif rejasiga muvofiq narxlana boshlaydi yoki Internet-to‘plamni sarflaydi (agar bor bo‘lsa);</li>
+      </ul>
+
+      ]]></string>
+
+
+    <string name="night_drive_1_sutka">1 Sutka</string>
+    <string name="night_drive_7_sutka">7 Sutka</string>
+    <string name="night_drive_30_sutka">30 Sutka</string>
+
+    <string name="onNet_column">OnNet TO\'PLAMLAR</string>
+    <string name="onNet_300">OnNet 100 Mb</string>
+    <string name="onNet_500">OnNet 500 Mb</string>
+    <string name="onNet_1000">OnNet 1000 Mb</string>
+    <string name="onNet_2000">OnNet 2000 Mb</string>
+    <string name="onNet_3000">OnNet 3000 Mb</string>
+    <string name="onNet_5000">OnNet 5000 Mb</string>
+    <string name="onNet_10000">OnNet 10000 Mb</string>
+    <string name="onNet_20000">OnNet 20000 Mb</string>
+    <string name="onNet_30000">OnNet 30000 Mb</string>
+    <string name="onNet_50000">OnNet 50000 Mb</string>
+
+    <string name="mini_column">KUNLIK TO\'PLAMLAR</string>
+    <string name="day_50">Kunlik 50 Mb</string>
+    <string name="day_100">Kunlik 100 Mb</string>
+    <string name="day_200">Kunlik 200 Mb</string>
+    <string name="day_300">Kunlik 300 Mb</string>
+    <string name="day_500">Kunlik 500 Mb</string>
+    <string name="day_1000">Kunlik 1 000 Mb</string>
+    <string name="day_2000">Kunlik 2 000 Mb</string>
+    <string name="day_3000">Kunlik 3 000 Mb</string>
+    <string name="day_5000">Kunlik 5 000 Mb</string>
+    <string name="day_10000">Kunlik 10 000 Mb</string>
+
+
+    <!--  internet_packets_settings-->
+    <string name="internet_settings_dialog_1_raw">Mobil internet sozlamalarni olish</string>
+    <string name="internet_settings_dialog_2_raw">Mobil internet xizmatini yoqish</string>
+    <string name="internet_settings_dialog_3_raw">Mobil internet xizmatini o\'chirish</string>
+    <string name="internet_settings_dialog_4_raw">OnNet to\'plamini o\'chirish</string>
+
+    <!--monthly internet packets column-->
+
+    <string name="checking_button">QOLDIQNI TEKSHIRISH</string>
+
+    <string name="monthly_column">OYLIK</string>
+    <string name="night_column">TUNGI</string>
+    <string name="night_drive_column">TUNGI DRIVE</string>
+
+
+    <!--Tariffs-->
+    <string name="tariffs">Tariflar</string>
+
+    <string name="apply_button">O\'tish</string>
+
+    <!--Mobi 16-->
+    <string name="mobi_16_title">Mobi 16</string>
+    <string name="mobi_16_info">  16 000/800 so\'m / oy - 1 600/53 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        1 600/53 MB mobil internet, 160/5 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m
+    </string>
+
+    <!--Mobi 20-->
+    <string name="mobi_20_title">Mobi 20</string>
+    <string name="mobi_20_info">  20 000/1 000 so\'m / oy - 2 000/67 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        2 000/67 MB mobil internet, 2 000/67 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m
+    </string>
+
+    <!--Mobi 25-->
+    <string name="mobi_25_title">Mobi 25</string>
+    <string name="mobi_25_info">  25 000/1 250 so\'m / oy - 3 500/117 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        3 500/117 MB mobil internet, 3 500/117 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m
+    </string>
+
+    <!--Mobi 30-->1
+    <string name="mobi_30_title">Mobi 30+</string>
+    <string name="mobi_30_info">  30 000/1 500 so\'m / oy - 5 000/167 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        5 000/167 MB mobil internet, 3 500/117 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <!--Mobi 40-->
+    <string name="mobi_40_title">Mobi 40</string>
+    <string name="mobi_40_info">  40 000/2 000 so\'m / oy - UNLIM tarmoq ichida, 5 000/167 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        8 000/267 MB mobil internet, 3 500/117 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <!--Mobi 50-->
+    <string name="mobi_50_title">Mobi 50+</string>
+    <string name="mobi_50_info"> 50 000/2 500 so\'m / oy - UNLIM tarmoq ichida, 5 000/167 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        10 000/333 MB mobil internet, 3 500/117 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <!--Mobi 60-->
+    <string name="mobi_60_title">Mobi 60</string>
+    <string name="mobi_60_info"> 60 000/3 000 so\'m / oy - UNLIM tarmoq ichida, 5 000/167 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        15 000/500 MB mobil internet, 3 500/117 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <!--Mobi 70-->
+    <string name="mobi_70_title">Mobi 70</string>
+    <string name="mobi_70_info"> 70 000 so\'m / oy - UNLIM tarmoq ichida, 5 000 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        20 000 MB mobil internet, 3 500 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <!--Mobi 90-->
+    <string name="mobi_90_title">Mobi 90</string>
+    <string name="mobi_90_info"> 90 000 so\'m / oy - UNLIM tarmoq ichida, 5 000 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        65 000 MB mobil internet, 3 500 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <!--Mobi 110-->
+    <string name="mobi_110_title">Mobi 110</string>
+    <string name="mobi_110_info">110 000 so\'m / oy - UMLIM daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        80 000 MB mobil internet, 5 000 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m</string>
+
+    <!--Mobi 150-->
+    <string name="mobi_150_title">Mobi 150</string>
+    <string name="mobi_150_info">150 000 so\'m / oy - UMLIM daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        100 000 MB mobil internet, 10 000 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m</string>
+
+    <!--Gap yoq-->
+    <string name="gap_yoq_title">Gap Yo\'q</string>
+    <string name="gap_yoq_info">35 000/1 750 so\'m / oy - UNLIM tarmoq ichida, 500 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        10 000 MB mobil internet, 0 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <!--tarif Chilla lite-->
+    <string name="chilla_lite_title">Chilla Lite+</string>
+    <string name="chilla_lite_info">20 000/1 000 so\'m / oy - 3000/100 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+        200/7 MB mobil internet, 100/3 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <!--Gap yoq Pro-->
+    <string name="gap_yoq_pro_title">Gap Yo\'q Pro</string>
+    <string name="gap_yoq_pro_info">75 000/3 750 so\'m / oy - UNLIM tarmoq ichida, 1 000 daqiqa O\'zbekiston bo\'yicha chiquvchi qo\'ng\'iroqlarga,
+    35 000/1 167 MB mobil internet, 25 000/834 MB tungi to‘plam 00.00 dan 08.00 gacha, 0 SMS, kiruvchi qo\'ng\'iroqlar 0 so\'m </string>
+
+    <string name="minutes_packages">Daqiqa va SMS</string>
+    <string name="minutes_word">daqiqa</string>
+    <string name="sum_word">sum</string>
+
+    <!--Yangiliklar-->
+    <string name="tiklash_title_news">«Raqamni tiklash» xizmatidan uydan chiqmasdan turib foydalaning!</string>
+    <string name="tiklash_text_news">"Endilikda Mobiuz abonentlarida o’z raqamlarini uydan chiqmasdan turib tiklash imkoniyati borligini, ma'lum qilishdan mamnunmiz.
+Buning uchun, quyidagi raqamlar bo’yicha qo’ng’iroq qilish va operatorga kerak bo’lgan ma’lumotlarni berish zarur:
++998 (97) 130-09-09 – jismoniy va yuridik shaxslar uchun
+0890 – Mobiuz raqamidan qo’ng’iroq qiladigan jismoniy shaxslar uchun
+0990 – Mobiuz raqamidan qo’ng’iroq qiladigan yuridik shaxslar uchun
+Yaqin vaqt ichida Sizni Mobiuz kompaniyasidan yangi imkoniyatlar kutmoqda. Yangiliklarni kuzatib boring!"
+    </string>
+
+
+    <string name="tarif_title_news"> «O’qituvchi 1» va «O’qituvchi 2» tarif rejalarining yangilanishi!</string>
+    <string name="tarif_text_news">"   Chop etish versiyasi
+    Hurmatli abonentlar!
+    O’qituvchi toifasidagi tariflarning yangilanishi haqida xabar berishdan mamnunmiz. Endilikda «O’qituvchi 1» tarif rejasiga 2000 MB internet-to’plam kiritildi, «O’qituvchi 2» tarif rejasidagi internet-to’plamning hajmi esa 5000 MBni tashkil etadi."
+    </string>
+
+    <string name="TV_title_news">iTV’dan “Mobil TV” xizmati!</string>
+    <string name="TV_text_news">"   Chop etish versiyasi
+
+    Hurmatli abonentlar!
+
+“Mobil TV” xizmati endi iTV ilovasi doirasida ham ishlashini mamnuniyat bilan e’lon qilamiz!
+
+Minglab horijiy va mahalliy film, serial va ko‘rsatuvlar, har bir foydalanuvchining didiga mos keladigan telekanallar sizga ajoyib kayfiyat taqdim etadi!
+     </string>
+
+
+
+    <!--Minutes info-->
+    <string name="minutes_package_info_name"><![CDATA[
+
+     To\'plam amal qilish muddati – faollashtirilgan kundan boshlab 30 kalendar kuni.<br/>
+        <br/>Faollashtirilgan to\'plamda daqiqalar qoldig\'ini bilish: USSD-buyruq: *103#; SMS-yordamchi: 616020 raqamiga 3.<br/><br/>
+
+         <b>Izohlar:</b>
+
+           <ul>
+      <li>Daqiqalar to\'plamlarini “Start”, “Ajoyib”, “Besh”, “Plus”, “Baraka”, “Optima”, “Super Optima”,
+       “Connect”, “Maxi”, “777”, “555”, “Optima 777”, “Terminal”, “Gap bor!”, “Asosiy”, “Standart”, “Optimal”,
+       “Optimal+”, “Qulay”, “Qulay+”, “Premial”, “Ideal”, ‘MAXI New”, “Ultra”, “Maxi Year”, «Ultra Year»,
+        «777 Year», «UMS bilan birga!”, “Veteran”, “Premial Yillik”, “Ideal Yillik”, “Qulay Yillik”, “Qulay Yillik+”,
+        “Uzbekistan Pass 2000” va “Uzbekistan Pass 5000” tarif rejalarida bo\'lgan abonentlar – jismoniy shaxslar faollashtirishlari mumkin;</li>
+      <li>To\'lpamlarga kiritilgan daqiqalar tarmoq ichida, boshqa mobil operator tarmoqlariga va shahar raqamlariga chiquvchi qo\'ng\'iroqlar uchun mo\'ljallangan;</li>
+      <li>To\'plamga kiritilgan daqiqalar hajmi abonent bandlanganligi/bandlanmaganligidan qat\'iy nazar 30 kalendar kuni davomida amal qiladi;</li>
+      <li>To\'plam faollashtirilishi uchun abonent hisobida yetarlicha mablag bo\'lishi shart, ya\'ni
+       u faollashganidan keyin abonent balansida kamida 42,10 so\'m qolishi kerak;</li>
+      <li>To\'plam faollashgani haqida SMS-xabarnoma keladi;</li>
+      <li>Xarid qilingan barcha to\'plamlar hajmi qo\'shiladi va uning amal qilish muddati
+      ohirgi xarid qilingan to\'plamdan boshlab 30 kunni tashkil qiladi;</li>
+      <li>To\'plam yoki tarif rejasi bo\'yicha beriladigan daqiqalar yakunlanganidan so\'ng qo\'ng\'iroqlar belgilangan tariflar bo\'yicha narxlanadi;</li>
+      <li>Tarif rejasi o\'zgartirilganda daqiqalar to\'plami saqlanib qoladi;</li>
+      <li>To\'plamdagi daqiqalar O\'zbekiston Respublikasi bo\'yicha qo\'ng\'iroqlar uchun mo\'ljallangan;</li>
+      <li>Daqiqalar to\'plamlari abonent faqat O\'zbekiston hududida, "UMS" MChJ tarmog\'ida bo\'lgandagina amal qiladi;</li>
+      <li>Xalqaro chiquvchi qo\'ng\'iroqlar va kontent-provayder xizmatlariga qo\'ng\'iroqlar ular uchun belgilngan tariflar bo\'yicha narxlanadi;</li>
+      </ul>
+      ]]></string>
+    <string name="minutes_package_info_des"><![CDATA[
+  Pakеt narxi xizmat faollashtirilganda hisoblab olinadi.<br/>
+        <br/>Faollashtirilgan «SMS-pakеti»da qolgan xabarlar sonini bilish uchun USSD-buyrug\‘ini:
+        *104# yoki 616018 raqamiga 3 soni bilan SMS-xabar jo‘natish zarur.<br/><br/>
+
+         <b>Izohlar:</b>
+
+      <ul>
+      <li>Kontеnt-provaydеr xizmatiga Xalqaro chiquvchi SMS-xabarlar va SMS-so‘rovlar ularga o‘rnatilgan tariflar bo‘yicha tariflanadi.</li>
+      <li>SMS-xabarlarning muvofiq hajmidan pakеt faollashtirilgan kundan boshlab, abonеnt
+      bu vaqtda blokirovkada bo‘lishidan qat’iy nazar, 30 kalеndar kun muddati mobaynida foydalanish mumkin.</li>
+      <li>SMS-pakеtlarga pakеt faollashtirilganidan so‘ng abonеnt hisobida 42,10 so\'m kam bo‘lmagan mablag‘ bo‘lishi sharti bilan ulanish mumkin.</li>
+      <li>Sotib olingan pakеtlar o‘rtasidagi vaqt oralig‘i kamida 10 daqiqa bo‘lishi zarur.</li>
+      <li>Sotib olingan barcha pakеtlar haqi jamlanadi, foydalanish muddati esa oxirgi
+       sotib olingan pakеt muddati tugaguniga va sotib olingan kundan boshlab 30 kunga qadar cho‘ziladi.</li>
+      <li>Xizmat – jismoniy va yuridik shaxs bo‘lgan barcha abonеntlarga barcha tarif rejalarda amal qiladi.</li>
+      <li>Pakеtlar faqat O‘zbekiston hududida «UMS» MCHJ tarmog‘i abonеntlarining
+       O‘zbekiston mobil operatorlari abonentlari uchun amal qiladi.</li>
+      </ul>
+
+
+      ]]></string>
+
+
+    <string name="services">Xizmatlar</string>
+
+    <string name="mutlaqo_cheksiz_title"> «Mutlaqo cheksiz!» aksiyasi</string>
+    <string name="mutlaqo_cheksiz_info">«Mutlaqo cheksiz!» xizmati – bu 3 oy davomida O‘zbekiston bo‘yicha chiquvchi qo‘ng‘iroqlarga cheksiz daqiqalar
+        hamda har oy taqdim etiladigan 1000 MB mobil internet.\n«Mutlaqo cheksiz!» xizmati yoqilgandan boshlab 3 oy ichida tarif rejasini o‘zgartirib bo‘lmaydi.
+        Xizmat yoqilgandan keyin 3 o‘tib, xizmat ham o‘chadi, tarif rejasini o‘zgartirish ta’qiqi ham bekor qilinadi.
+        Xizmatni o`chirish uchun: *165*1#
+
+</string>
+
+    <!--Va'da qilingan to'lov-->
+    <string name="vada_qilingan_tolov_title">Va\'da qilingan to\'lov</string>
+    <string name="vada_qilingan_tolov_info">Ushbu xizmat kelgusida to\'lanadigan mablag\' hisobidan aloqa xizmatalridan
+        foydalanishni davom ettirish uchun o\'z hisobvaraqangizga 3 kun muddatga 12 632 so\'m tushirish imkonini
+        beradi. Va\'da qilingan to\'lov xizmatlarining amal qilish muddati tugagach, hisobvaraqdan 14 737 so\'m
+        (berilgan 12 632 so\'m va faollashtirish uchun 2 105 so\'m) yechib olinadi</string>
+
+    <!--Chaqiriqni kutish va ushlab turish-->
+    <string name="chaqiriqni_kutish_title">Chaqiriqni kutish va ushlab turish</string>
+    <string name="chaqiriqni_kutish_info">Suhbat mobaynida boshqa abonent kirish qo\'ng\'iroqlari (yoki
+        qo\'ng\'iroq qilgan boshqa abonent) chaqiriqni kutish imkonini beradi va kirish chaqiriqlarini
+        mazkur joriy suhbat tugaguniga qadar ushlab turadi, ya\'ni navbatma-navbat ikki abonent bilan suhbatlashadi</string>
+
+    <!--Sizga qo'ng'iroq qilishdi & Men aloqadaman!-->
+    <string name="sizga_qongiroq_qilishdi_title">Sizga qo\'ng\'iroq qilishdi &amp; Men aloqadaman! </string>
+    <string name="sizga_qongiroq_qilishdi_info">Yangi ulangan abonentlarga ushbu xizmatni 30 kun davomida bepul
+                        ishlatish uchun faollashtirish imkoniyati taqdim etiladi. 30 kundan so\'ng xizmat narxi 84 so\'mni
+                        tashkil etadi. Amaldagi abonentlar uchun xizmatning abonent to\'lovi - 84 so\'m / kun</string>
+
+    <!--AntiAON-->
+    <string name="anitiaon_title">AntiAON</string>
+    <string name="antiaon_info">Raqamni aniqlashga qarshilik xizmatidan foydalanish: Abonent to\'lovi - 421 so\'m / kuniga.
+        Raqamni aniqlashga qarshilik xizmatiga ulanish/xizmatni o\'chirish bepul</string>
+
+    <!--4G LTE-->
+    <string name="LTE_title">4G LTE</string>
+    <string name="LTE_info"> 4G LTE Toshkent shahrining har bir qismida! UMS interneti ortiqcha harajatsiz 4G LTE tezligida!
+        Xizmatga ulanish bepul</string>
+
+    <!--Faollashtirilgan xizmatlarni tekshirish-->
+    <string name="faollashtirilgan_xizmatlar_title">Faollashtirilgan xizmatlarni tekshirish</string>
+    <string name="faollashtirilgan_xizmatlat_info">*140# USSD-buyrug\'i faol xizmatlarni tekshirish imkoniyatini beradi</string>
+
+    <!--Xalqaro qo'ng'iroqlar-->
+    <string name="xalqaro_qongiroqlar_title">Xalqaro qo\'ng\'iroqlar</string>
+    <string name="xalqaro_qongiroqlar_info">Markaziy Osiyo (Tojikiston, Qozog\'iston, Turkmaniston, Qirg\'iziston) 2 316 so\'m
+        Rossiya va MDH mamlakatlari 3 158 so\'m, Yevropa 6 948 so\'m, Osiyo 8 632 so\'m. Boshqa mamlakatlar 8 211 so\'m</string>
+
+
+    <!--Super 0-->
+    <string name="super_nul_title">Super 0</string>
+    <string name="super_nul_info">Super 0 xizmati yoqilganda UMS tarmog\'i ichida chiquvchi qo\'ng\'iroqlar uchun bir kalendar
+        oyi muddatiga 15 000 daqiqalik to\'plam ishga tushadi. Super 0 xizmati yoqilganda Konferents-aloqa xizmati ishlamaydi.
+        Xizmat narxi 4 211 so\'m. Ijobiy balansda faollashtirilgan paytda yechib olinadi! Xizmat amal qilish muddati cheklanmagan</string>
+
+    <string name="balance">Balans</string>
+    <string name="balancee">BALANS</string>
+    <string name="last_payment">OXIRGI TO\'LOV</string>
+    <string name="my_expenditure">MENING XARAJATLARIM</string>
+    <string name="RemainTrafBtn">TRAFIK QOLDIG\'I</string>
+    <string name="CheckActServ">FAOL XIZMATLARNI TEKSHIRISH</string>
+    <string name="my_numbers">MENING RAQAMIM</string>
+    <string name="my_all_numbers">MENING BARCHA RAQAMLARIM</string>
+
+
+    <string name="news">Yangiliklar</string>
+    <string name="useful">Foydali</string>
+    <string name="batafsil">Batafsil</string>
+
+    <!--Drawer Menu-->
+    <string name="change_language">Til o\'zgartirish</string>
+    <string name="support_service">Qo\'llab quvvatlash markazi</string>
+    <string name="call_to_call_center">Bog\'lanish</string>
+    <string name="telegram_channel">Mobiuz kanal</string>
+    <string name="share">Baham ko\'rish</string>
+    <string name="tg_kanal">Telegram</string>
+
+    <!--Dialog button-->
+    <string name="dialog_title">Siz rozimisiz?</string>
+    <string name="dialog_text">Quyidagi xizmatni yoqishga rozimisiz?</string>
+    <string name="dialog_apply_button">Ha</string>
+    <string name="dialog_cancel_button">Orqaga</string>
+    <string name="one_plus_one">1+1 aksiyasi 2018-yil 5 sentabrgacha amal qiladi</string>
+
+    <string name="rate">Baholash</string>
+
+
+    <string name="aksiya">Aksiya (1+25% bonus)! Oylik internet-to\'plamlar sovg\'a!
+2020-уil  6-iyul sanasidan 6-avgustgacha</string>
+
+    <string name="sms">sms</string>
+
+    <string name="aksiya_sms">"1+1 Aksiyasi "Daqiqalar to\'plami" xarid qilinganda-xuddi shunday hajmdagi SMS to\'plam sovg\'a 20.07.2020 dan  20.09.2020 gacha"</string>
+
+</resources>

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "uz.example.rakhmatillo.ums_pro",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 43,
+      "versionName": "2.0.0",
+      "enabled": true,
+      "outputFile": "app-debug.apk"
+    }
+  ]
+}

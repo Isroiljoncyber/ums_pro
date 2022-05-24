@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/language"
+            android:icon="@drawable/ic_translation"
+            android:title="@string/change_language" />
+    </group>
+    <item android:title="@string/support_service">
+        <menu>
+            <item
+                android:id="@+id/call"
+                android:icon="@drawable/ic_call"
+                android:title="@string/call_to_call_center" />
+        </menu>
+    </item>
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="@string/share" />
+    </group>
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/tg_kanal"
+            android:icon="@drawable/ic_telegram"
+            android:title="@string/tg_kanal" />
+    </group>
+</menu>
