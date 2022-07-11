@@ -92,8 +92,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="$USER_HOME$/Downloads/mobiuz_logo.jpg" />
-                                                <entry key="scalingPercent" value="60" />
+                                                <entry key="imagePath" value="$USER_HOME$/Downloads/Telegram Desktop/Frame 9.png" />
+                                                <entry key="scalingPercent" value="69" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -126,7 +126,6 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="ff0000" />
                                     </map>
                                   </option>
                                 </PersistentState>
